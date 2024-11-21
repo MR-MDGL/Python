@@ -7,4 +7,3 @@ for key,value in dict1.items():
     if value==find:
         list1.append(key)
 print(list1)
-# pri
