@@ -26,6 +26,6 @@ for i in  range(0,len(list1)):
     # return list1.index(i)
     #  str.append(list1.index(i))
 print(list2)
-
+# khhgh
 
 
