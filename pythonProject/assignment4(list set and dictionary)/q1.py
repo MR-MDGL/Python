@@ -3,7 +3,7 @@ def remove(numbers, target):
         numbers.remove(target)
     return numbers
 
-input_list = [1, 2, 5, 3, 5, 4, 5, 6]
-target_number = 5
-result = remove(input_list, target_number)
+input = [1, 2, 5, 3, 5, 4, 5, 6]
+target = 5
+result = remove(input, target)
 print(result)
