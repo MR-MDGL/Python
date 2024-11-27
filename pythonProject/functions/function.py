@@ -152,7 +152,7 @@ from functools import reduce                # for reduce function in line 210
 
 
 
-#---------------------------------------------------------lamda function
+#---------------------------------------------------------lambda function------------------------------------------
 # x= lambda a:a+10
 # print(x(5))
 #
@@ -181,7 +181,7 @@ from functools import reduce                # for reduce function in line 210
 
 
 #
-city=['jaipur','bhiwani','patiala','kota','delhi']
+# city=['jaipur','bhiwani','patiala','kota','delhi']
 
 # def length(city):
 #     return  len(city)
@@ -207,12 +207,11 @@ city=['jaipur','bhiwani','patiala','kota','delhi']
 
 
 # -------------------------reduce function
-z=reduce( lambda x,y:x+y, [1,2,3,4,5])
-print(z)
+# z=reduce( lambda x,y:x+y, [1,2,3,4,5])
+# print(z)
 # disadvantage of lambda
 #  lambda is not suitable for multiple expressions
 #
-
 
 
 
@@ -232,10 +231,10 @@ print(z)
 
 
 # eg2
-subject=['english',"maths",'science']
-marks=[10,24,55]
-a=zip(subject,marks)
-print(list(a))
+# subject=['english',"maths",'science']
+# marks=[10,24,55]
+# a=zip(subject,marks)
+# print(list(a))
 
 
 
