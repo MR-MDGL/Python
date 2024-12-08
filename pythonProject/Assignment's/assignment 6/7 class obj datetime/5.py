@@ -2,7 +2,6 @@
 # - An instance variable b (brand).
 # - A class variable w (wheels) initialized to 4.
 # - A method show() to print both b and w.
-
 class Car():
     def __init__(self,b,w=4):
         self.w=w
