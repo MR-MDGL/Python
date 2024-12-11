@@ -16,9 +16,9 @@ class B(A):
 
 class C()
 
-ob=B()
-ob.show()
-ob.displayPrivate()
+# ob=B()
+# ob.show()
+# ob.displayPrivate()
 o=A()
 o.displayPrivate()
 
