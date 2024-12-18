@@ -14,8 +14,6 @@
 # print(var4,type(var4))
 
 
-
-
 # #3
 # import keyword
 # print(keyword.kwlist)
