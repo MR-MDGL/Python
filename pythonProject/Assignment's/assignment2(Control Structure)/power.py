@@ -13,4 +13,4 @@ def calculate_power(base, exponent):
 # Example usage
 base = 2
 exponent = 3
-
+print(calculate_power(base,exponent))
